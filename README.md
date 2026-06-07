@@ -1,3 +1,6 @@
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38]
+
+
 ## Technical Skills
 
 <table>
@@ -15,15 +18,6 @@
 			<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 			<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 			<img src="https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS"/>
-		</td>
-	</tr>
-	<tr>
-		<td><b>🌐 Web & Infra</b></td>
-		<td>
-			<img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
-			<img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
-			<img src="https://img.shields.io/badge/-Apache-F56A00?style=flat-square&logo=apache&logoColor=white" alt="Apache"/>
-			<img src="https://img.shields.io/badge/-IIS-0078D6?style=flat-square&logo=microsoft-iis&logoColor=white" alt="IIS"/>
 		</td>
 	</tr>
 	<tr>
