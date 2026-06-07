@@ -1,5 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38]
-
+# Wahaj Ahmed 
 
 ## Technical Skills
 
