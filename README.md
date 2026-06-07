@@ -35,7 +35,6 @@
 		<td><b>🗄️ Databases</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-			<img src="https://img.shields.io/badge/-MS--SQL-007396?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MS-SQL"/>
 		</td>
 	</tr>
 	<tr>
