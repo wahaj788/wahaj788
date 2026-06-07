@@ -1,40 +1,65 @@
-<div align="center">
+## Technical Skills
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=FF85C0&center=true&vCenter=true&width=500&lines=hey%2C+i'm+%5Byour+name%5D!+👋;4th-year+SWE+student+🎓;building+cool+things+%26+breaking+them" alt="Typing SVG" />
-
-**4th-year Software Engineering student · building cool things & breaking them too**
-
----
-
-### ✦ tech i love
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=60a5fa)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=c084fc)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=ff85c0)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=34d399)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=fbbf24)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=60a5fa)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=c084fc)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=34d399)
-
----
-
-| | |
-|---|---|
-| 🎓 | graduating **spring 2025** |
-| ☕ | fuel source: **coffee + spite** |
-| 🔥 | currently: **surviving capstone season** |
-| 🐛 | bugs fixed today: **yes** |
-
-> **currently** surviving capstone season & pretending I understand distributed systems  
-> **learning** Kubernetes, system design & the meaning of life  
-> **fun fact** my code works, I just don't know why  
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff85c0)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ff85c0)](https://yoursite.com)
-[![Resume](https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=googledrive&logoColor=ff85c0)](https://yourresume.com)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff85c0)](mailto:you@email.com)
-
-</div>
+<table>
+	<tr>
+		<th align="left">Category</th>
+		<th align="left">Technologies</th>
+	</tr>
+	<tr>
+		<td><b>💻 Languages</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+			<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+			<img src="https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++"/>
+			<img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+			<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+			<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+			<img src="https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>🌐 Web & Infra</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+			<img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+			<img src="https://img.shields.io/badge/-Apache-F56A00?style=flat-square&logo=apache&logoColor=white" alt="Apache"/>
+			<img src="https://img.shields.io/badge/-IIS-0078D6?style=flat-square&logo=microsoft-iis&logoColor=white" alt="IIS"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>⚙️ Frameworks & Libraries</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+			<img src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+			<img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+			<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+			<img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
+			<img src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit"/>
+			<img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>🗄️ Databases</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+			<img src="https://img.shields.io/badge/-MS--SQL-007396?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MS-SQL"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>🛠️ Tools & Platforms</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+			<img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI"/>
+			<img src="https://img.shields.io/badge/-FreeRTOS-003153?style=flat-square&logo=freertos&logoColor=white" alt="FreeRTOS"/>
+			<img src="https://img.shields.io/badge/-Microsoft_365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt="Microsoft 365"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>🖥️ Operating Systems</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
+			<img src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS"/>
+			<img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+		</td>
+	</tr>
+</table>
