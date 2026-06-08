@@ -1,4 +1,4 @@
-# Hi, I'm Wahaj Ahmed 
+# Hi, I'm Wahaj! 
 
 ## Technical Skills
 
